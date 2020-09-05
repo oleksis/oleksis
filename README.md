@@ -4,11 +4,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[machine-learning-articles Add new Issues](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0.49) - 2020-09-05
+
 [youtube-dl picta-dl 2020.8.31](https://github.com/oleksis/youtube-dl/releases/tag/v2020.8.31) - 2020-08-31
 
 [youtube-dl-gui youtube-dlg 1.1.1](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.1.1) - 2020-08-29
-
-[machine-learning-articles Add new Issues](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0.48) - 2020-08-28
 
 [pyinstaller-manylinux PyInstaller ManyLinux 2014 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v1) - 2020-08-08
 
