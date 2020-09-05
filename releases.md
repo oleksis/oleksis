@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->107<!-- releases_count ends --> releases across <!-- project_count starts -->6<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->108<!-- releases_count ends --> releases across <!-- project_count starts -->7<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-cuba](https://github.com/oleksis/github-cuba)**: [Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.1) - 2020-09-05
+<br>Top Contributions Users from Cuba
 * **[machine-learning-articles](https://github.com/oleksis/machine-learning-articles)**: [Add new Issues](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0.49) - ([53 releases](https://github.com/oleksis/machine-learning-articles/releases)) - 2020-09-05
 <br>List of interesting articles on different topics of machine learning and deep learning
 * **[youtube-dl](https://github.com/oleksis/youtube-dl)**: [picta-dl 2020.8.31](https://github.com/oleksis/youtube-dl/releases/tag/v2020.8.31) - ([14 releases](https://github.com/oleksis/youtube-dl/releases)) - 2020-08-31

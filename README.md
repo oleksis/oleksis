@@ -4,6 +4,8 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[github-cuba Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.1) - 2020-09-05
+
 [machine-learning-articles Add new Issues](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0.49) - 2020-09-05
 
 [youtube-dl picta-dl 2020.8.31](https://github.com/oleksis/youtube-dl/releases/tag/v2020.8.31) - 2020-08-31
