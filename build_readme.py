@@ -153,6 +153,7 @@ async def main():
     my_repos = {
         'youtube-dl',
         'youtube-dl-gui',
+        'myrich',
         'cubadebate',
         'cubadebatebot',
         'machine-learning-articles',
