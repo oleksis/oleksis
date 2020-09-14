@@ -4,11 +4,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[youtube-dl picta-dl 2020.9.14](https://github.com/oleksis/youtube-dl/releases/tag/v2020.9.14) - 2020-09-14
+
 [github-cuba Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.2) - 2020-09-07
 
 [machine-learning-articles Machine Learning Articles](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0) - 2020-09-07
-
-[youtube-dl picta-dl 2020.9.6](https://github.com/oleksis/youtube-dl/releases/tag/v2020.9.6) - 2020-09-06
 
 [youtube-dl-gui youtube-dlg 1.1.1](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.1.1) - 2020-08-29
 
