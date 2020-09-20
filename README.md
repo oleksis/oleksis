@@ -4,7 +4,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[youtube-dl picta-dl 2020.9.14](https://github.com/oleksis/youtube-dl/releases/tag/v2020.9.14) - 2020-09-14
+[youtube-dl picta-dl 2020.9.20](https://github.com/oleksis/youtube-dl/releases/tag/v2020.9.20) - 2020-09-20
 
 [github-cuba Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.2) - 2020-09-07
 
