@@ -151,8 +151,9 @@ async def main():
     # print(json.dumps(releases, indent=4))
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     my_repos = {
-        'youtube-dl',
+        'picta-dl',
         'youtube-dl-gui',
+        'picta-dl-gui',
         'myrich',
         'cubadebate',
         'cubadebatebot',
