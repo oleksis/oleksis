@@ -4,6 +4,10 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[picta-dl 2020.11.24](https://github.com/oleksis/picta-dl/releases/tag/v2020.11.24) - 2020-11-24
+
+[picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.7.0) - 2020-11-19
+
 [github-cuba Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.2) - 2020-09-07
 
 [machine-learning-articles Machine Learning Articles](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0) - 2020-09-07
