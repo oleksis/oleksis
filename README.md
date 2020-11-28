@@ -4,9 +4,9 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[picta-dl 2020.11.26](https://github.com/oleksis/picta-dl/releases/tag/v2020.11.26) - 2020-11-26
+[picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.8.0) - 2020-11-28
 
-[picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.7.0) - 2020-11-19
+[picta-dl 2020.11.26](https://github.com/oleksis/picta-dl/releases/tag/v2020.11.26) - 2020-11-26
 
 [github-cuba Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.2) - 2020-09-07
 
