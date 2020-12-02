@@ -160,6 +160,7 @@ async def main():
         'machine-learning-articles',
         'pyinstaller-manylinux',
         'github-cuba',
+        'youtube-dl-pyqt',
     }
     releases = [
         release
