@@ -4,9 +4,9 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[picta-dl 2020.12.2](https://github.com/oleksis/picta-dl/releases/tag/v2020.12.2) - 2020-12-03
+[youtube-dl-pyqt youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.1) - 2020-12-03
 
-[youtube-dl-pyqt youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.0) - 2020-12-02
+[picta-dl 2020.12.2](https://github.com/oleksis/picta-dl/releases/tag/v2020.12.2) - 2020-12-03
 
 [picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.9.0) - 2020-12-01
 
