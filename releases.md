@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->82<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->83<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[picta-dl](https://github.com/oleksis/picta-dl)**: [2020.12.2](https://github.com/oleksis/picta-dl/releases/tag/v2020.12.2) - ([5 releases](https://github.com/oleksis/picta-dl/releases)) - 2020-12-03
+<br>Download videos from Picta.cu Plataforma de Contenidos Audiovisuales
 * **[youtube-dl-pyqt](https://github.com/oleksis/youtube-dl-pyqt)**: [youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.0) - 2020-12-02
 <br>youtube-dl GUI written in PyQt.
 * **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.9.0) - ([11 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2020-12-01
 <br>Picta Downloader GUI
-* **[picta-dl](https://github.com/oleksis/picta-dl)**: [2020.11.26](https://github.com/oleksis/picta-dl/releases/tag/v2020.11.26) - ([4 releases](https://github.com/oleksis/picta-dl/releases)) - 2020-11-26
-<br>Download videos from Picta.cu Plataforma de Contenidos Audiovisuales
 * **[github-cuba](https://github.com/oleksis/github-cuba)**: [Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.2) - ([2 releases](https://github.com/oleksis/github-cuba/releases)) - 2020-09-07
 <br>Top Contributions Users from Cuba
 * **[machine-learning-articles](https://github.com/oleksis/machine-learning-articles)**: [Machine Learning Articles](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0) - ([24 releases](https://github.com/oleksis/machine-learning-articles/releases)) - 2020-09-07
