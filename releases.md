@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->86<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->87<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.10.2) - ([12 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2020-12-12
+<br>Picta Downloader GUI
 * **[picta-dl](https://github.com/oleksis/picta-dl)**: [2020.12.12](https://github.com/oleksis/picta-dl/releases/tag/v2020.12.12) - ([7 releases](https://github.com/oleksis/picta-dl/releases)) - 2020-12-12
 <br>Download videos from Picta.cu Plataforma de Contenidos Audiovisuales
 * **[youtube-dl-pyqt](https://github.com/oleksis/youtube-dl-pyqt)**: [youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.1) - ([2 releases](https://github.com/oleksis/youtube-dl-pyqt/releases)) - 2020-12-03
 <br>youtube-dl GUI written in PyQt.
-* **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.9.0) - ([11 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2020-12-01
-<br>Picta Downloader GUI
 * **[github-cuba](https://github.com/oleksis/github-cuba)**: [Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.2) - ([2 releases](https://github.com/oleksis/github-cuba/releases)) - 2020-09-07
 <br>Top Contributions Users from Cuba
 * **[machine-learning-articles](https://github.com/oleksis/machine-learning-articles)**: [Machine Learning Articles](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0) - ([24 releases](https://github.com/oleksis/machine-learning-articles/releases)) - 2020-09-07
