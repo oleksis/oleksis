@@ -4,7 +4,9 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[picta-dl 2020.12.26](https://github.com/oleksis/picta-dl/releases/tag/v2020.12.26) - 2020-12-26
+[picta-dl 2020.12.31](https://github.com/oleksis/picta-dl/releases/tag/v2020.12.31) - 2020-12-31
+
+[youtube-dl-gui youtube-dlg 1.1.2](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.1.2) - 2020-12-31
 
 [picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.5) - 2020-12-22
 
@@ -13,8 +15,6 @@
 [github-cuba Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.2) - 2020-09-07
 
 [machine-learning-articles Machine Learning Articles](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0) - 2020-09-07
-
-[youtube-dl-gui youtube-dlg 1.1.1](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.1.1) - 2020-08-29
 
 [pyinstaller-manylinux PyInstaller ManyLinux 2014 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v1) - 2020-08-08
 
