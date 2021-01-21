@@ -4,11 +4,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[youtube-dl-gui youtube-dlg 1.1.3](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.1.3) - 2021-01-21
+
 [picta-dl 2021.1.16](https://github.com/oleksis/picta-dl/releases/tag/v2021.1.16) - 2021-01-16
 
 [youtube-dl-pyqt youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.2) - 2021-01-09
-
-[youtube-dl-gui youtube-dlg 1.1.2](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.1.2) - 2020-12-31
 
 [picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.5) - 2020-12-22
 
