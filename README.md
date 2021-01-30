@@ -4,7 +4,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[picta-dl 2021.1.29](https://github.com/oleksis/picta-dl/releases/tag/v2021.1.29) - 2021-01-30
+[picta-dl 2021.1.29.2](https://github.com/oleksis/picta-dl/releases/tag/v2021.1.29.2) - 2021-01-30
 
 [youtube-dl-gui youtube-dlg 1.1.3](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.1.3) - 2021-01-21
 
