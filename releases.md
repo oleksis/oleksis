@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->105<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->106<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.17) - ([18 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2021-02-13
+* **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.25) - ([19 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2021-02-24
 <br>Picta Downloader GUI
 * **[picta-dl](https://github.com/oleksis/picta-dl)**: [2021.2.10](https://github.com/oleksis/picta-dl/releases/tag/v2021.2.10) - ([15 releases](https://github.com/oleksis/picta-dl/releases)) - 2021-02-10
 <br>Download videos from Picta.cu Plataforma de Contenidos Audiovisuales
