@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->107<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->108<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[cubadebate](https://github.com/oleksis/cubadebate)**: [☁️ Wordcloud Cubadebate](https://github.com/oleksis/cubadebate/releases/tag/v1.3.0) - ([33 releases](https://github.com/oleksis/cubadebate/releases)) - 2021-03-19
+<br>Cubadebate Comenta
 * **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.27) - ([20 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2021-03-13
 <br>Picta Downloader GUI
 * **[picta-dl](https://github.com/oleksis/picta-dl)**: [2021.2.10](https://github.com/oleksis/picta-dl/releases/tag/v2021.2.10) - ([15 releases](https://github.com/oleksis/picta-dl/releases)) - 2021-02-10
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->107<!-- releases_count ends --> releases a
 <br>List of interesting articles on different topics of machine learning and deep learning
 * **[pyinstaller-manylinux](https://github.com/oleksis/pyinstaller-manylinux)**: [PyInstaller ManyLinux 2014 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v1) - 2020-08-08
 <br>Run PyInstaller on Many Linux 2014
-* **[cubadebate](https://github.com/oleksis/cubadebate)**: [WordsCloud Cubadebate](https://github.com/oleksis/cubadebate/releases/tag/v1.2.18) - ([32 releases](https://github.com/oleksis/cubadebate/releases)) - 2020-07-06
-<br>Cubadebate Comenta
 * **[cubadebatebot](https://github.com/oleksis/cubadebatebot)**: [](https://github.com/oleksis/cubadebatebot/releases/tag/v0.1.1) - ([2 releases](https://github.com/oleksis/cubadebatebot/releases)) - 2020-06-07
 <br>Bot para compartir lo más comentado en CubaDebate
 <!-- recent_releases ends -->

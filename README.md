@@ -4,6 +4,8 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[cubadebate ☁️ Wordcloud Cubadebate](https://github.com/oleksis/cubadebate/releases/tag/v1.3.0) - 2021-03-19
+
 [picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.27) - 2021-03-13
 
 [picta-dl 2021.2.10](https://github.com/oleksis/picta-dl/releases/tag/v2021.2.10) - 2021-02-10
@@ -17,8 +19,6 @@
 [machine-learning-articles Machine Learning Articles](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0) - 2020-09-07
 
 [pyinstaller-manylinux PyInstaller ManyLinux 2014 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v1) - 2020-08-08
-
-[cubadebate WordsCloud Cubadebate](https://github.com/oleksis/cubadebate/releases/tag/v1.2.18) - 2020-07-06
 
 [cubadebatebot ](https://github.com/oleksis/cubadebatebot/releases/tag/v0.1.1) - 2020-06-07
 <!-- recent_releases ends -->
