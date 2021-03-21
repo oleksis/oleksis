@@ -4,7 +4,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[cubadebate ☁️ Wordcloud Cubadebate](https://github.com/oleksis/cubadebate/releases/tag/v1.3.0) - 2021-03-19
+[cubadebate ☁️ Wordcloud CubaDebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.1) - 2021-03-21
 
 [picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.27) - 2021-03-13
 
