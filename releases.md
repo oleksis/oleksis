@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->110<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->111<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[cubadebate](https://github.com/oleksis/cubadebate)**: [☁️ Wordcloud Cubadebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.2) - ([35 releases](https://github.com/oleksis/cubadebate/releases)) - 2021-03-24
+* **[cubadebate](https://github.com/oleksis/cubadebate)**: [☁️ Wordcloud CubaDebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.3) - ([36 releases](https://github.com/oleksis/cubadebate/releases)) - 2021-03-26
 <br>Cubadebate Comenta
 * **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.27) - ([20 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2021-03-13
 <br>Picta Downloader GUI
