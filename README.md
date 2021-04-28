@@ -4,9 +4,9 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[picta-dl 2021.4.17](https://github.com/oleksis/picta-dl/releases/tag/v2021.4.17) - 2021-04-17
+[youtube-dl-gui yt-dlg 1.3.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.3.0) - 2021-04-28
 
-[youtube-dl-gui youtube-dlg 1.2.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.2.0) - 2021-04-08
+[picta-dl 2021.4.17](https://github.com/oleksis/picta-dl/releases/tag/v2021.4.17) - 2021-04-17
 
 [cubadebate ☁️ Wordcloud CubaDebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.3) - 2021-03-26
 
