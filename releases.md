@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->119<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->118<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[picta-dl](https://github.com/oleksis/picta-dl)**: [2021.5.21.1](https://github.com/oleksis/picta-dl/releases/tag/v2021.5.21.1) - ([19 releases](https://github.com/oleksis/picta-dl/releases)) - 2021-05-22
+* **[picta-dl](https://github.com/oleksis/picta-dl)**: [2021.5.21.1](https://github.com/oleksis/picta-dl/releases/tag/v2021.5.21.1) - ([18 releases](https://github.com/oleksis/picta-dl/releases)) - 2021-05-22
 <br>Download videos from Picta.cu Plataforma de Contenidos Audiovisuales
 * **[youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)**: [yt-dlg 1.5.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.5.0) - ([12 releases](https://github.com/oleksis/youtube-dl-gui/releases)) - 2021-05-17
 <br>A cross platform front-end GUI of the popular youtube-dl written in wxPython.
