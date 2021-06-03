@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->119<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->120<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)**: [yt-dlg 1.6.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.6.0) - ([13 releases](https://github.com/oleksis/youtube-dl-gui/releases)) - 2021-06-03
+<br>A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 * **[cubadebate](https://github.com/oleksis/cubadebate)**: [☁️ Wordcloud CubaDebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.4) - ([37 releases](https://github.com/oleksis/cubadebate/releases)) - 2021-05-30
 <br>Cubadebate Comenta
 * **[picta-dl](https://github.com/oleksis/picta-dl)**: [2021.5.21.1](https://github.com/oleksis/picta-dl/releases/tag/v2021.5.21.1) - ([18 releases](https://github.com/oleksis/picta-dl/releases)) - 2021-05-22
 <br>Download videos from Picta.cu Plataforma de Contenidos Audiovisuales
-* **[youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)**: [yt-dlg 1.5.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.5.0) - ([12 releases](https://github.com/oleksis/youtube-dl-gui/releases)) - 2021-05-17
-<br>A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 * **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.27) - ([20 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2021-03-13
 <br>Picta Downloader GUI
 * **[youtube-dl-pyqt](https://github.com/oleksis/youtube-dl-pyqt)**: [youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.2) - ([3 releases](https://github.com/oleksis/youtube-dl-pyqt/releases)) - 2021-01-09
