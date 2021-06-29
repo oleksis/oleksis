@@ -4,13 +4,13 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.28) - 2021-06-29
+
 [youtube-dl-gui yt-dlg 1.6.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.6.0) - 2021-06-03
 
 [cubadebate ☁️ Wordcloud CubaDebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.4) - 2021-05-30
 
 [picta-dl 2021.5.21.1](https://github.com/oleksis/picta-dl/releases/tag/v2021.5.21.1) - 2021-05-22
-
-[picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.27) - 2021-03-13
 
 [youtube-dl-pyqt youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.2) - 2021-01-09
 
