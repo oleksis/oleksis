@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->121<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->122<!-- releases_count ends --> releases across <!-- project_count starts -->9<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)**: [yt-dlg 1.7.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.7.0) - ([14 releases](https://github.com/oleksis/youtube-dl-gui/releases)) - 2021-06-30
+<br>A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 * **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.28) - ([21 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2021-06-29
 <br>Picta Downloader GUI
-* **[youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)**: [yt-dlg 1.6.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.6.0) - ([13 releases](https://github.com/oleksis/youtube-dl-gui/releases)) - 2021-06-03
-<br>A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 * **[cubadebate](https://github.com/oleksis/cubadebate)**: [☁️ Wordcloud CubaDebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.4) - ([37 releases](https://github.com/oleksis/cubadebate/releases)) - 2021-05-30
 <br>Cubadebate Comenta
 * **[picta-dl](https://github.com/oleksis/picta-dl)**: [2021.5.21.1](https://github.com/oleksis/picta-dl/releases/tag/v2021.5.21.1) - ([18 releases](https://github.com/oleksis/picta-dl/releases)) - 2021-05-22
