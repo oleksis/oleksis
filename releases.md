@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->126<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[pyinstaller-manylinux](https://github.com/oleksis/pyinstaller-manylinux)**: [PyInstaller ManyLinux 2.24 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.1.2) - ([3 releases](https://github.com/oleksis/pyinstaller-manylinux/releases)) - 2021-11-07
-<br>Run PyInstaller on Many Linux 2014
+<br>Run PyInstaller on ManyLinux 2.24
 * **[youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)**: [yt-dlg 1.8.1](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.1) - ([16 releases](https://github.com/oleksis/youtube-dl-gui/releases)) - 2021-11-04
 <br>A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 * **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.28) - ([21 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2021-06-29
