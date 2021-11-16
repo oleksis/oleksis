@@ -4,7 +4,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[pyinstaller-manylinux PyInstaller ManyLinux 2.24 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.1.2) - 2021-11-07
+[pyinstaller-manylinux PyInstaller ManyLinux 2.24 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.1.2) - 2021-11-16
 
 [youtube-dl-gui yt-dlg 1.8.1](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.1) - 2021-11-04
 
