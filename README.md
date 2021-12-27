@@ -27,17 +27,7 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ### On my blog
 <!-- blog starts -->
-[IPython display Audio and ProgressBar](https://oleksis.github.io/jupyter/ipython/audio/progressbar/jupyter/2020/08/30/ipython-display-audio-progress-bar.html) - 2020-08-30
 
-[NLTK install and download resources to data path](https://oleksis.github.io/jupyter/nltk/nlp/python/jupyter/carnets/2020/04/06/nltk-install-download-add-resource-data-path.html) - 2020-04-06
-
-[PyBites Selenium Template for Exercises](https://oleksis.github.io/jupyter/selenium/python/pytest/jupyter/template/pybites/2020/03/19/pybites-selenium-template.html) - 2020-03-19
-
-[PyBites Template for Exercises](https://oleksis.github.io/jupyter/python/pytest/jupyter/template/pybites/2020/03/08/pybites-template-jupyter.html) - 2020-03-08
-
-[Threading vs Multiprocessing in Jupyter](https://oleksis.github.io/jupyter/python/jupyter/threading/multiprocessing/concurrent/timeit/carnets/2020/03/04/threading-multiprocessing-jupyter.html) - 2020-03-04
-
-[Google JSON API Custom Search Engine for Pywombat](https://oleksis.github.io/jupyter/python/jupyter/requests/pandas/api/json/2020/02/29/customsearch-api-pywombat-live.html) - 2020-02-29
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 </td></tr></table>
