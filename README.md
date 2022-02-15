@@ -27,6 +27,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ### On my blog
 <!-- blog starts -->
+[Compile wxPython 4.1.2a1 using Microsoft C++ Build Tools 2019](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/2021/12/21/Compile-wxPython-4.1.2a1-Python3.10-Windows.html) - 2021-12-21
+
 [IPython display Audio and ProgressBar](https://oleksis.github.io/jupyter/ipython/audio/progressbar/jupyter/2020/08/30/ipython-display-audio-progress-bar.html) - 2020-08-30
 
 [NLTK install and download resources to data path](https://oleksis.github.io/jupyter/nltk/nlp/python/jupyter/carnets/2020/04/06/nltk-install-download-add-resource-data-path.html) - 2020-04-06
