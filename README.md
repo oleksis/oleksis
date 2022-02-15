@@ -27,6 +27,10 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ### On my blog
 <!-- blog starts -->
+[Update openSUSE 15.3 to 15.4](https://oleksis.github.io/jupyter/upgrade/opensuse/2022/01/27/Update-openSUSE-15.3-to-15.4.html) - 2022-01-27
+
+[Upgrade openSUSE Tumbleweed](https://oleksis.github.io/jupyter/upgrade/opensuse/tumbleweed/2022/01/25/Upgrade-openSUSE-Tumbleweed.html) - 2022-01-25
+
 [Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’](https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html) - 2022-01-22
 
 [Compile wxPython 4.1.1 using Ubuntu on Windows Community Preview](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/ubuntu/wsl2/2022/01/22/Compile-wxPython-4.1.1-Python3.9.5-Ubuntu-21.04-hirsute-hippo.html) - 2022-01-22
@@ -42,10 +46,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [PyBites Selenium Template for Exercises](https://oleksis.github.io/jupyter/selenium/python/pytest/jupyter/template/pybites/2020/03/19/pybites-selenium-template.html) - 2020-03-19
 
 [PyBites Template for Exercises](https://oleksis.github.io/jupyter/python/pytest/jupyter/template/pybites/2020/03/08/pybites-template-jupyter.html) - 2020-03-08
-
-[Threading vs Multiprocessing in Jupyter](https://oleksis.github.io/jupyter/python/jupyter/threading/multiprocessing/concurrent/timeit/carnets/2020/03/04/threading-multiprocessing-jupyter.html) - 2020-03-04
-
-[Google JSON API Custom Search Engine for Pywombat](https://oleksis.github.io/jupyter/python/jupyter/requests/pandas/api/json/2020/02/29/customsearch-api-pywombat-live.html) - 2020-02-29
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 </td></tr></table>
