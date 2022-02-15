@@ -27,6 +27,12 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ### On my blog
 <!-- blog starts -->
+[Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’](https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html) - 2022-01-22
+
+[Compile wxPython 4.1.1 using Ubuntu on Windows Community Preview](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/ubuntu/wsl2/2022/01/22/Compile-wxPython-4.1.1-Python3.9.5-Ubuntu-21.04-hirsute-hippo.html) - 2022-01-22
+
+[Compile wxPython 4.1.2a1 using pyMSVC package](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/pymsvc/msvc/2022/01/14/Compile-wxPython-412a1-Python3.10.1-pyMSVC-Windows.html) - 2022-01-14
+
 [Compile wxPython 4.1.2a1 using Microsoft C++ Build Tools 2019](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/2021/12/21/Compile-wxPython-4.1.2a1-Python3.10-Windows.html) - 2021-12-21
 
 [IPython display Audio and ProgressBar](https://oleksis.github.io/jupyter/ipython/audio/progressbar/jupyter/2020/08/30/ipython-display-audio-progress-bar.html) - 2020-08-30
