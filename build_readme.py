@@ -3,26 +3,19 @@ import pathlib
 import re
 import os
 
-import asyncio
 from bs4 import BeautifulSoup
-from gql import gql, Client, AIOHTTPTransport
+from python_graphql_client import GraphqlClient
 import requests
 
 
 root = pathlib.Path(__file__).parent.resolve()
-TOKEN = "bearer " + os.getenv("GH_GQL_API_TOKEN", "")
+TOKEN = os.getenv("GH_GQL_API_TOKEN", "")
 
-# Select your transport with a GitHub url endpoint
-transport = AIOHTTPTransport(
-    url="https://api.github.com/graphql", headers={"Authorization": TOKEN}
-)
-
-client = Client(
-    transport=transport, fetch_schema_from_transport=True,
-)
+client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
 def replace_chunk(content, marker, chunk, inline=False):
+    # sourcery skip: use-fstring-for-formatting
     r = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
@@ -34,7 +27,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 def make_query(after_cursor=None):
-    query_string =  """
+    return """
 query {
   viewer {
     repositories(first: 100, privacy: PUBLIC, after: AFTER) {
@@ -59,114 +52,106 @@ query {
   }
 }
 """.replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+        "AFTER", f'"{after_cursor}"' if after_cursor else "null"
     )
 
-    return gql(query_string)
 
-
-async def fetch_releases():
+def fetch_releases(oauth_token=TOKEN):
     repos = []
     releases = []
     repo_names = set()
     has_next_page = True
     after_cursor = None
 
-    async with client as session:
-        while has_next_page:
-            try:
-                data = await session.execute(make_query(after_cursor))
-            except asyncio.exceptions.TimeoutError:
-                continue
-            # print()
-            # print(json.dumps(data, indent=4))
-            # print()
-            repo_nodes = data["viewer"]["repositories"]["nodes"]
+    while has_next_page:
+        data = client.execute(
+            query=make_query(after_cursor),
+            headers={"Authorization": f"Bearer {oauth_token}"},
+        )
 
-            for repo in repo_nodes:
-                if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
-                    repos.append(repo)
-                    repo_names.add(repo["name"])
-                    releases.append(
-                        {
-                            "repo": repo["name"],
-                            "repo_url": repo["url"],
-                            "description": repo["description"],
-                            "release": repo["releases"]["nodes"][0]["name"]
-                            .replace(repo["name"], "")
-                            .strip(),
-                            "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                            "published_day": repo["releases"]["nodes"][0][
-                                "publishedAt"
-                            ].split("T")[0],
-                            "url": repo["releases"]["nodes"][0]["url"],
-                            "total_releases": repo["releases"]["totalCount"],
-                        }
-                    )
-            has_next_page = data["viewer"]["repositories"]["pageInfo"][
-                "hasNextPage"
-            ]
-            after_cursor = data["viewer"]["repositories"]["pageInfo"]["endCursor"]
-            await asyncio.sleep(1)
+        # print()
+        # print(json.dumps(data, indent=4))
+        # print()
+        repo_nodes = data["data"]["viewer"]["repositories"]["nodes"]
+
+        for repo in repo_nodes:
+            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
+                repos.append(repo)
+                repo_names.add(repo["name"])
+                releases.append(
+                    {
+                        "repo": repo["name"],
+                        "repo_url": repo["url"],
+                        "description": repo["description"],
+                        "release": repo["releases"]["nodes"][0]["name"]
+                        .replace(repo["name"], "")
+                        .strip(),
+                        "published_at": repo["releases"]["nodes"][0]["publishedAt"],
+                        "published_day": repo["releases"]["nodes"][0][
+                            "publishedAt"
+                        ].split("T")[0],
+                        "url": repo["releases"]["nodes"][0]["url"],
+                        "total_releases": repo["releases"]["totalCount"],
+                    }
+                )
+        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
+            "hasNextPage"
+        ]
+        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
     return releases
 
 
 def fetch_blog_entries():
-    'Get the etries of my blog'
-    FEED_URL = 'https://oleksis.github.io/jupyter/feed.xml'
+    "Get the etries of my blog"
+    FEED_URL = "https://oleksis.github.io/jupyter/feed.xml"
     blog_entries = []
 
     try:
         page = requests.get(FEED_URL)
-        soup = BeautifulSoup(page.content,'html.parser')
+        soup = BeautifulSoup(page.content, "html.parser")
 
-        entries = soup.find_all('entry')
+        entries = soup.find_all("entry")
 
         for entry in entries:
-            title = entry.find('title')
-            link = entry.find('link')
-            published = entry.find('published')
+            title = entry.find("title")
+            link = entry.find("link")
+            published = entry.find("published")
 
             if None in (title, link, published):
                 continue
 
             blog_entries.append(
                 {
-                    'title': title.text.strip(),
-                    'url':  link['href'],
-                    'published':  published.text.strip().split("T")[0]
+                    "title": title.text.strip(),
+                    "url": link["href"],
+                    "published": published.text.strip().split("T")[0],
                 }
             )
 
     except requests.ConnectionError:
-        print('Error get feed.xml!')
-    
+        print("Error get feed.xml!")
+
     return blog_entries
 
 
-async def main():
+if __name__ == "__main__":  # sourcery skip: use-fstring-for-formatting
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    releases = await fetch_releases()
+    releases = fetch_releases(TOKEN)
     # print(json.dumps(releases, indent=4))
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     my_repos = {
-        'picta-dl',
-        'youtube-dl-gui',
-        'picta-dl-gui',
-        'myrich',
-        'cubadebate',
-        'cubadebatebot',
-        'machine-learning-articles',
-        'pyinstaller-manylinux',
-        'github-cuba',
-        'youtube-dl-pyqt',
+        "picta-dl",
+        "youtube-dl-gui",
+        "picta-dl-gui",
+        "cubadebate",
+        "cubadebatebot",
+        "machine-learning-articles",
+        "pyinstaller-manylinux",
+        "github-cuba",
+        "youtube-dl-pyqt",
     }
-    releases = [
-        release
-        for release in releases
-        if release['repo'] in my_repos
-    ]
+    releases = [release for release in releases if release["repo"] in my_repos]
     md = "\n\n".join(
         [
             "[{repo} {release}]({url}) - {published_day}".format(**release)
@@ -188,7 +173,7 @@ async def main():
                 )
                 if release["total_releases"] > 1
                 else "",
-                **release
+                **release,
             )
             for release in releases
         ]
@@ -216,8 +201,3 @@ async def main():
 
     readme.open("w").write(rewritten)
     print("README.md updated!")
-
-
-if __name__ == "__main__":
-    loop = asyncio.get_event_loop()
-    loop.run_until_complete(main())
