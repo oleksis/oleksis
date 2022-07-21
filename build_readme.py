@@ -144,6 +144,7 @@ if __name__ == "__main__":  # sourcery skip: use-fstring-for-formatting
         "picta-dl",
         "youtube-dl-gui",
         "picta-dl-gui",
+        "plugin.video.picta",
         "cubadebate",
         "cubadebatebot",
         "machine-learning-articles",
