@@ -29,6 +29,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ### On my blog
 <!-- blog starts -->
+[Compile wxPython 4.2.0 from PyPI using pyenv 2.3.3 on Ubuntu 22.04](https://oleksis.github.io/jupyter/python/pyenv/wxpython/pypi/ubuntu/2022/08/29/Compile-wxPython-4.2.0-PyP-pyenv-2.3.3-Ubuntu-22.04.html) - 2022-08-29
+
 [Setup Python Coding Environment on Windows](https://oleksis.github.io/jupyter/python/pyenv/powershell/2022/08/11/Setup-Python-Coding-Environment-Window.html) - 2022-08-11
 
 [Update openSUSE 15.3 to 15.4](https://oleksis.github.io/jupyter/upgrade/opensuse/2022/01/27/Update-openSUSE-15.3-to-15.4.html) - 2022-01-27
@@ -46,8 +48,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [IPython display Audio and ProgressBar](https://oleksis.github.io/jupyter/ipython/audio/progressbar/jupyter/2020/08/30/ipython-display-audio-progress-bar.html) - 2020-08-30
 
 [NLTK install and download resources to data path](https://oleksis.github.io/jupyter/nltk/nlp/python/jupyter/carnets/2020/04/06/nltk-install-download-add-resource-data-path.html) - 2020-04-06
-
-[PyBites Selenium Template for Exercises](https://oleksis.github.io/jupyter/selenium/python/pytest/jupyter/template/pybites/2020/03/19/pybites-selenium-template.html) - 2020-03-19
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 </td></tr></table>
