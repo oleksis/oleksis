@@ -1,8 +1,6 @@
 [![@oleksis's Holopin board](https://holopin.me/oleksis)](https://holopin.io/@oleksis)
 
-<table><tr><td valign="top" width="50%">
-
-### Recent releases
+## Recent releases
 <!-- recent_releases starts -->
 [plugin.video.picta kodi addon picta](https://github.com/oleksis/plugin.video.picta/releases/tag/v1.0.2) - 2021-06-15
 
@@ -25,9 +23,8 @@
 [cubadebatebot ](https://github.com/oleksis/cubadebatebot/releases/tag/v0.1.0) - 2020-05-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.md)
-</td><td valign="top" width="50%">
 
-### On my blog
+## On my blog
 <!-- blog starts -->
 [Compile wxPython 4.2.0 from PyPI using pyenv 2.3.3 on Ubuntu 22.04](https://oleksis.github.io/jupyter/python/pyenv/wxpython/pypi/ubuntu/2022/08/29/Compile-wxPython-4.2.0-PyP-pyenv-2.3.3-Ubuntu-22.04.html) - 2022-08-29
 
@@ -50,6 +47,5 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [NLTK install and download resources to data path](https://oleksis.github.io/jupyter/nltk/nlp/python/jupyter/carnets/2020/04/06/nltk-install-download-add-resource-data-path.html) - 2020-04-06
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
-</td></tr></table>
 
 <a href="https://github.com/oleksis/oleksis/actions"><img src="https://github.com/oleksis/oleksis/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
