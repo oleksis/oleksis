@@ -2,25 +2,25 @@
 
 ## Recent releases
 <!-- recent_releases starts -->
-[plugin.video.picta kodi addon picta](https://github.com/oleksis/plugin.video.picta/releases/tag/v1.0.2) - 2021-06-15
+[plugin.video.picta 2.1.0](https://github.com/oleksis/plugin.video.picta/releases/tag/v2.1.0) - 2022-07-20
 
-[youtube-dl-gui youtube-dlg 1.2.0](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.2.0) - 2021-04-08
+[youtube-dl-gui yt-dlg 1.8.3](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.3) - 2022-01-18
 
-[picta-dl 2020.12.26](https://github.com/oleksis/picta-dl/releases/tag/v2020.12.26) - 2020-12-26
+[pyinstaller-manylinux PyInstaller ManyLinux 2.24 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.1.2) - 2021-11-16
 
-[picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.10.2) - 2020-12-12
+[picta-dl-gui ](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.28) - 2021-06-29
 
-[youtube-dl-pyqt youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.0) - 2020-12-02
+[cubadebate ☁️ Wordcloud CubaDebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.4) - 2021-05-30
+
+[picta-dl 2021.5.21.1](https://github.com/oleksis/picta-dl/releases/tag/v2021.5.21.1) - 2021-05-22
+
+[youtube-dl-pyqt youtube-dl-gui](https://github.com/oleksis/youtube-dl-pyqt/releases/tag/v0.4.2) - 2021-01-09
+
+[github-cuba Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.2) - 2020-09-07
 
 [machine-learning-articles Machine Learning Articles](https://github.com/oleksis/machine-learning-articles/releases/tag/v1.0) - 2020-09-07
 
-[github-cuba Github Contributions Cuba](https://github.com/oleksis/github-cuba/releases/tag/v0.1) - 2020-09-05
-
-[pyinstaller-manylinux PyInstaller ManyLinux 2014 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v1) - 2020-08-08
-
-[cubadebate WordsCloud Cubadebate](https://github.com/oleksis/cubadebate/releases/tag/v1.2.14) - 2020-06-04
-
-[cubadebatebot ](https://github.com/oleksis/cubadebatebot/releases/tag/v0.1.0) - 2020-05-31
+[cubadebatebot ](https://github.com/oleksis/cubadebatebot/releases/tag/v0.1.1) - 2020-06-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.md)
 
