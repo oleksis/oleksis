@@ -1,4 +1,6 @@
-# Released projects
+---
+title: Released projects
+---
 
 Listing <!-- releases_count starts -->134<!-- releases_count ends --> releases across <!-- project_count starts -->10<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
