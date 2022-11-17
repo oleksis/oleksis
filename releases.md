@@ -2,15 +2,15 @@
 title: Released projects
 ---
 
-Listing <!-- releases_count starts -->135<!-- releases_count ends --> releases across <!-- project_count starts -->10<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->136<!-- releases_count ends --> releases across <!-- project_count starts -->10<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pyinstaller-manylinux](https://github.com/oleksis/pyinstaller-manylinux)**: [PyInstaller ManyLinux 2.28 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.2.0) - ([4 releases](https://github.com/oleksis/pyinstaller-manylinux/releases)) - 2022-11-17
+<br>Run PyInstaller on ManyLinux 2.24
 * **[youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)**: [yt-dlg 1.8.4](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.4) - ([19 releases](https://github.com/oleksis/youtube-dl-gui/releases)) - 2022-11-13
 <br>A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 * **[plugin.video.picta](https://github.com/oleksis/plugin.video.picta)**: [2.1.0](https://github.com/oleksis/plugin.video.picta/releases/tag/v2.1.0) - ([6 releases](https://github.com/oleksis/plugin.video.picta/releases)) - 2022-07-20
 <br>Picta Kodi Video Plugin
-* **[pyinstaller-manylinux](https://github.com/oleksis/pyinstaller-manylinux)**: [PyInstaller ManyLinux 2.24 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.1.2) - ([3 releases](https://github.com/oleksis/pyinstaller-manylinux/releases)) - 2021-11-16
-<br>Run PyInstaller on ManyLinux 2.24
 * **[picta-dl-gui](https://github.com/oleksis/picta-dl-gui)**: [](https://github.com/oleksis/picta-dl-gui/releases/tag/v0.12.28) - ([21 releases](https://github.com/oleksis/picta-dl-gui/releases)) - 2021-06-29
 <br>Picta Downloader GUI
 * **[cubadebate](https://github.com/oleksis/cubadebate)**: [☁️ Wordcloud CubaDebate 🇨🇺](https://github.com/oleksis/cubadebate/releases/tag/v1.3.4) - ([37 releases](https://github.com/oleksis/cubadebate/releases)) - 2021-05-30
