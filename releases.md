@@ -2,10 +2,10 @@
 title: Released projects
 ---
 
-Listing <!-- releases_count starts -->136<!-- releases_count ends --> releases across <!-- project_count starts -->10<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->137<!-- releases_count ends --> releases across <!-- project_count starts -->10<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[pyinstaller-manylinux](https://github.com/oleksis/pyinstaller-manylinux)**: [PyInstaller ManyLinux 2.28 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.2.0) - ([4 releases](https://github.com/oleksis/pyinstaller-manylinux/releases)) - 2022-11-17
+* **[pyinstaller-manylinux](https://github.com/oleksis/pyinstaller-manylinux)**: [PyInstaller ManyLinux 2.28 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.2.1) - ([5 releases](https://github.com/oleksis/pyinstaller-manylinux/releases)) - 2022-11-18
 <br>Run Pyinstaller on ManyLinux 2.28 (x86_64) AlmaLinux 8.7 based using Pyenv
 * **[youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)**: [yt-dlg 1.8.4](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.4) - ([19 releases](https://github.com/oleksis/youtube-dl-gui/releases)) - 2022-11-13
 <br>A cross platform front-end GUI of the popular youtube-dl written in wxPython.
