@@ -11,8 +11,10 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: oleksis
-    github:  oleksis
+    - { platform: rss, user_url: "/feed.xml" }
+    - { platform: github, user_url: "https://github.com/oleksis/" }
+    - { platform: twitter, user_url: "https://twitter.com/oleksis" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/oleksis/" }
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
