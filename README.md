@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[How to configure Tox and Pyenv](https://oleksis.github.io/jupyter/python/pyenv/tox/2023/01/01/Tox-Pyenv.html) - 2023-01-01
+
 [Compile wxPython 4.2.0 from PyPI using pyenv 2.3.3 on Ubuntu 22.04](https://oleksis.github.io/jupyter/python/pyenv/wxpython/pypi/ubuntu/2022/08/29/Compile-wxPython-4.2.0-PyP-pyenv-2.3.3-Ubuntu-22.04.html) - 2022-08-29
 
 [Setup Python Coding Environment on Windows](https://oleksis.github.io/jupyter/python/pyenv/powershell/2022/08/11/Setup-Python-Coding-Environment-Window.html) - 2022-08-11
@@ -43,8 +45,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [Compile wxPython 4.1.2a1 using Microsoft C++ Build Tools 2019](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/2021/12/21/Compile-wxPython-4.1.2a1-Python3.10-Windows.html) - 2021-12-21
 
 [IPython display Audio and ProgressBar](https://oleksis.github.io/jupyter/ipython/audio/progressbar/jupyter/2020/08/30/ipython-display-audio-progress-bar.html) - 2020-08-30
-
-[NLTK install and download resources to data path](https://oleksis.github.io/jupyter/nltk/nlp/python/jupyter/carnets/2020/04/06/nltk-install-download-add-resource-data-path.html) - 2020-04-06
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
