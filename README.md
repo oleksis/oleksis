@@ -2,11 +2,11 @@
 
 ## Recent releases
 <!-- recent_releases starts -->
+[youtube-dl-gui yt-dlg 1.8.5](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.5) - 2023-02-24
+
 [pyinstaller-manylinux PyInstaller ManyLinux 2.28 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.3.0) - 2023-02-23
 
 [picta-dl 2022.11.30](https://github.com/oleksis/picta-dl/releases/tag/v2022.11.29) - 2022-11-30
-
-[youtube-dl-gui yt-dlg 1.8.4](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.4) - 2022-11-13
 
 [plugin.video.picta 2.1.0](https://github.com/oleksis/plugin.video.picta/releases/tag/v2.1.0) - 2022-07-20
 
