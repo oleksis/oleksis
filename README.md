@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[Comparison between Python Launcher for Windows and Unix](https://oleksis.github.io/jupyter/python/pylauncher/2023/04/22/Comparison-Python-Launcher-Windows-Unix.html) - 2023-04-22
+
 [Using Docker Scout Action for Summary Jobs and Shields.io badges](https://oleksis.github.io/jupyter/docker/scout/softwaresupplychain/github/badges/2023/03/10/Docker-Scout-GitHub-Actions-Summary-badges.html) - 2023-03-10
 
 [How to configure Tox and Pyenv](https://oleksis.github.io/jupyter/python/pyenv/tox/2023/01/01/Tox-Pyenv.html) - 2023-01-01
@@ -38,13 +40,11 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 [Upgrade openSUSE Tumbleweed](https://oleksis.github.io/jupyter/upgrade/opensuse/tumbleweed/2022/01/25/Upgrade-openSUSE-Tumbleweed.html) - 2022-01-25
 
-[Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’](https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html) - 2022-01-22
-
 [Compile wxPython 4.1.1 using Ubuntu on Windows Community Preview](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/ubuntu/wsl2/2022/01/22/Compile-wxPython-4.1.1-Python3.9.5-Ubuntu-21.04-hirsute-hippo.html) - 2022-01-22
 
-[Compile wxPython 4.1.2a1 using pyMSVC package](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/pymsvc/msvc/2022/01/14/Compile-wxPython-412a1-Python3.10.1-pyMSVC-Windows.html) - 2022-01-14
+[Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’](https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html) - 2022-01-22
 
-[Compile wxPython 4.1.2a1 using Microsoft C++ Build Tools 2019](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/2021/12/21/Compile-wxPython-4.1.2a1-Python3.10-Windows.html) - 2021-12-21
+[Compile wxPython 4.1.2a1 using pyMSVC package](https://oleksis.github.io/jupyter/compile/wxpython/gui/python/pymsvc/msvc/2022/01/14/Compile-wxPython-412a1-Python3.10.1-pyMSVC-Windows.html) - 2022-01-14
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
