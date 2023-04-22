@@ -150,7 +150,7 @@ if __name__ == "__main__":  # sourcery skip: use-fstring-for-formatting
         "machine-learning-articles",
         "pyinstaller-manylinux",
         "github-cuba",
-        "youtube-dl-pyqt",
+        "pylauncher",
     }
     releases = [release for release in releases if release["repo"] in my_repos]
     md = "\n\n".join(
