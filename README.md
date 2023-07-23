@@ -2,9 +2,9 @@
 
 ## Recent releases
 <!-- recent_releases starts -->
-[youtube-dl-gui yt-dlg 1.8.5](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.5) - 2023-02-24
+[pyinstaller-manylinux PyInstaller ManyLinux 2.28 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.3.1) - 2023-07-23
 
-[pyinstaller-manylinux PyInstaller ManyLinux 2.28 Docker Action](https://github.com/oleksis/pyinstaller-manylinux/releases/tag/v2.3.0) - 2023-02-23
+[youtube-dl-gui yt-dlg 1.8.5](https://github.com/oleksis/youtube-dl-gui/releases/tag/v1.8.5) - 2023-02-24
 
 [pylauncher Python Launcher for Windows](https://github.com/oleksis/pylauncher/releases/tag/v2.1.0.0) - 2023-02-14
 
