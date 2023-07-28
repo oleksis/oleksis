@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[Customise the Python REPL on start-up](https://oleksis.github.io/jupyter/python/repl/rich/terminal/textual/2023/07/28/Customise-Python-REPL-start_up.html) - 2023-07-28
+
 [K3S on Windows Subsystem for Linux](https://oleksis.github.io/jupyter/kubernetes/k3s/wsl2/2023/05/08/K3S-Windows-Subsystem-Linux.html) - 2023-05-08
 
 [Rancher Desktop, K3s and Traefik as ingress controller](https://oleksis.github.io/jupyter/kubernetes/k3s/rancher/2023/04/25/Rancher-Desktop_Kubernetes_Traefik.html) - 2023-04-25
@@ -43,8 +45,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [Update openSUSE 15.3 to 15.4](https://oleksis.github.io/jupyter/upgrade/opensuse/2022/01/27/Update-openSUSE-15.3-to-15.4.html) - 2022-01-27
 
 [Upgrade openSUSE Tumbleweed](https://oleksis.github.io/jupyter/upgrade/opensuse/tumbleweed/2022/01/25/Upgrade-openSUSE-Tumbleweed.html) - 2022-01-25
-
-[Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’](https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html) - 2022-01-22
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
