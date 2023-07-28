@@ -26,7 +26,7 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
-[Customise the Python REPL on start-up](https://oleksis.github.io/jupyter/python/repl/rich/terminal/textual/2023/07/28/Customise-Python-REPL-start_up.html) - 2023-07-28
+[Customize the Python REPL on start-up](https://oleksis.github.io/jupyter/python/repl/rich/terminal/textual/2023/07/28/Customize-Python-REPL-start_up.html) - 2023-07-28
 
 [K3S on Windows Subsystem for Linux](https://oleksis.github.io/jupyter/kubernetes/k3s/wsl2/2023/05/08/K3S-Windows-Subsystem-Linux.html) - 2023-05-08
 
