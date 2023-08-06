@@ -30,3 +30,5 @@ plugins:
   - jekyll-seo-tag
 
 google_analytics: G-4PWE6CF2Y3
+include: [".well-known"]
+
