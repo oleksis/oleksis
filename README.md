@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[Fedora 38 x86_64 on WSL2 using PowerShell](https://oleksis.github.io/jupyter/wsl2/fedora/powershell/2023/08/05/Fedora-38-WSL2-PowerShell.html) - 2023-08-05
+
 [Customize the Python REPL on start-up](https://oleksis.github.io/jupyter/python/repl/rich/terminal/textual/2023/07/28/Customize-Python-REPL-start_up.html) - 2023-07-28
 
 [K3S on Windows Subsystem for Linux](https://oleksis.github.io/jupyter/kubernetes/k3s/wsl2/2023/05/08/K3S-Windows-Subsystem-Linux.html) - 2023-05-08
@@ -43,8 +45,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [Setup Python Coding Environment on Windows](https://oleksis.github.io/jupyter/python/pyenv/powershell/2022/08/11/Setup-Python-Coding-Environment-Window.html) - 2022-08-11
 
 [Update openSUSE 15.3 to 15.4](https://oleksis.github.io/jupyter/upgrade/opensuse/2022/01/27/Update-openSUSE-15.3-to-15.4.html) - 2022-01-27
-
-[Upgrade openSUSE Tumbleweed](https://oleksis.github.io/jupyter/upgrade/opensuse/tumbleweed/2022/01/25/Upgrade-openSUSE-Tumbleweed.html) - 2022-01-25
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
