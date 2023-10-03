@@ -26,7 +26,25 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[Compile drivers WiFi5 for Dual Band AC 1300Mbps USB3.0 Adapter](https://oleksis.github.io/jupyter/drivers/wifi/linux/compilation/2023/08/21/Realtek-8812BU-Wireless-USB-Linux.html) - 2023-08-21
 
+[Fedora 38 x86_64 on WSL2 using PowerShell](https://oleksis.github.io/jupyter/wsl2/fedora/powershell/2023/08/05/Fedora-38-WSL2-PowerShell.html) - 2023-08-05
+
+[Customize the Python REPL on start-up](https://oleksis.github.io/jupyter/python/repl/rich/terminal/textual/2023/07/28/Customize-Python-REPL-start_up.html) - 2023-07-28
+
+[K3S on Windows Subsystem for Linux](https://oleksis.github.io/jupyter/kubernetes/k3s/wsl2/2023/05/08/K3S-Windows-Subsystem-Linux.html) - 2023-05-08
+
+[Rancher Desktop, K3s and Traefik as ingress controller](https://oleksis.github.io/jupyter/kubernetes/k3s/rancher/2023/04/25/Rancher-Desktop_Kubernetes_Traefik.html) - 2023-04-25
+
+[Comparison between Python Launcher for Windows and Unix](https://oleksis.github.io/jupyter/python/pylauncher/2023/04/22/Comparison-Python-Launcher-Windows-Unix.html) - 2023-04-22
+
+[Using Docker Scout Action for Summary Jobs and Shields.io badges](https://oleksis.github.io/jupyter/docker/scout/softwaresupplychain/github/badges/2023/03/10/Docker-Scout-GitHub-Actions-Summary-badges.html) - 2023-03-10
+
+[How to configure Tox and Pyenv](https://oleksis.github.io/jupyter/python/pyenv/tox/2023/01/01/Tox-Pyenv.html) - 2023-01-01
+
+[Compile wxPython 4.2.0 from PyPI using pyenv 2.3.3 on Ubuntu 22.04](https://oleksis.github.io/jupyter/python/pyenv/wxpython/pypi/ubuntu/2022/08/29/Compile-wxPython-4.2.0-PyP-pyenv-2.3.3-Ubuntu-22.04.html) - 2022-08-29
+
+[Setup Python Coding Environment on Windows](https://oleksis.github.io/jupyter/python/pyenv/powershell/2022/08/11/Setup-Python-Coding-Environment-Window.html) - 2022-08-11
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
