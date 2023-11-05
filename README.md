@@ -26,7 +26,7 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
-[How Can I Contribute to the Black Python Developers Website using a development containers?](https://oleksis.github.io/jupyter/devcontainer/vscode/python/ruby/jekyll/2023/08/21/bpdevs-devcontainer-jekyll-python.html) - 2023-08-21
+[How Can I Contribute to the Black Python Developers Website using a development containers?](https://oleksis.github.io/jupyter/devcontainer/vscode/python/ruby/jekyll/2023/11/05/bpdevs-devcontainer-jekyll-python.html) - 2023-11-05
 
 [Compile drivers WiFi5 for Dual Band AC 1300Mbps USB3.0 Adapter](https://oleksis.github.io/jupyter/drivers/wifi/linux/compilation/2023/08/21/Realtek-8812BU-Wireless-USB-Linux.html) - 2023-08-21
 
