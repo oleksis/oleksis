@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[How Can I Contribute to the Black Python Developers Website using a development containers?](https://oleksis.github.io/jupyter/devcontainer/vscode/python/ruby/jekyll/2023/08/21/bpdevs-devcontainer-jekyll-python.html) - 2023-08-21
+
 [Compile drivers WiFi5 for Dual Band AC 1300Mbps USB3.0 Adapter](https://oleksis.github.io/jupyter/drivers/wifi/linux/compilation/2023/08/21/Realtek-8812BU-Wireless-USB-Linux.html) - 2023-08-21
 
 [Fedora 38 x86_64 on WSL2 using PowerShell](https://oleksis.github.io/jupyter/wsl2/fedora/powershell/2023/08/05/Fedora-38-WSL2-PowerShell.html) - 2023-08-05
@@ -43,8 +45,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [How to configure Tox and Pyenv](https://oleksis.github.io/jupyter/python/pyenv/tox/2023/01/01/Tox-Pyenv.html) - 2023-01-01
 
 [Compile wxPython 4.2.0 from PyPI using pyenv 2.3.3 on Ubuntu 22.04](https://oleksis.github.io/jupyter/python/pyenv/wxpython/pypi/ubuntu/2022/08/29/Compile-wxPython-4.2.0-PyP-pyenv-2.3.3-Ubuntu-22.04.html) - 2022-08-29
-
-[Setup Python Coding Environment on Windows](https://oleksis.github.io/jupyter/python/pyenv/powershell/2022/08/11/Setup-Python-Coding-Environment-Window.html) - 2022-08-11
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
