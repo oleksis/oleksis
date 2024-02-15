@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[Lagrange interpolation from Pascal to Python](https://oleksis.github.io/jupyter/pascal/python/ruby/docker/lagrange/interpolation/2024/02/15/lagrange-interpolation-pascal-python.html) - 2024-02-15
+
 [How Can I Contribute to the Black Python Developers Website using a development containers?](https://oleksis.github.io/jupyter/devcontainer/vscode/python/ruby/jekyll/2023/11/05/bpdevs-devcontainer-jekyll-python.html) - 2023-11-05
 
 [Compile drivers WiFi5 for Dual Band AC 1300Mbps USB3.0 Adapter](https://oleksis.github.io/jupyter/drivers/wifi/linux/compilation/2023/08/21/Realtek-8812BU-Wireless-USB-Linux.html) - 2023-08-21
@@ -43,8 +45,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [Using Docker Scout Action for Summary Jobs and Shields.io badges](https://oleksis.github.io/jupyter/docker/scout/softwaresupplychain/github/badges/2023/03/10/Docker-Scout-GitHub-Actions-Summary-badges.html) - 2023-03-10
 
 [How to configure Tox and Pyenv](https://oleksis.github.io/jupyter/python/pyenv/tox/2023/01/01/Tox-Pyenv.html) - 2023-01-01
-
-[Compile wxPython 4.2.0 from PyPI using pyenv 2.3.3 on Ubuntu 22.04](https://oleksis.github.io/jupyter/python/pyenv/wxpython/pypi/ubuntu/2022/08/29/Compile-wxPython-4.2.0-PyP-pyenv-2.3.3-Ubuntu-22.04.html) - 2022-08-29
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
