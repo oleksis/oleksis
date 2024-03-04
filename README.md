@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[Linux song](https://oleksis.github.io/jupyter/linux/kernel/song/valentine/releases/2024/03/04/Linux-song.html) - 2024-03-04
+
 [The year 2024 is a leap year](https://oleksis.github.io/jupyter/pascal/javascript/gregorian/calendar/2024/02/29/gregorian-calendar-javascript-app.html) - 2024-02-29
 
 [Lagrange interpolation from Pascal to Python](https://oleksis.github.io/jupyter/pascal/python/ruby/docker/lagrange/interpolation/2024/02/15/lagrange-interpolation-pascal-python.html) - 2024-02-15
@@ -43,8 +45,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [Rancher Desktop, K3s and Traefik as ingress controller](https://oleksis.github.io/jupyter/kubernetes/k3s/rancher/2023/04/25/Rancher-Desktop_Kubernetes_Traefik.html) - 2023-04-25
 
 [Comparison between Python Launcher for Windows and Unix](https://oleksis.github.io/jupyter/python/pylauncher/2023/04/22/Comparison-Python-Launcher-Windows-Unix.html) - 2023-04-22
-
-[Using Docker Scout Action for Summary Jobs and Shields.io badges](https://oleksis.github.io/jupyter/docker/scout/softwaresupplychain/github/badges/2023/03/10/Docker-Scout-GitHub-Actions-Summary-badges.html) - 2023-03-10
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
