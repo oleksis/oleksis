@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[Los Gatos Samurái,](https://oleksis.github.io/jupyter/gatos/samur%C3%A1i/software/python/2024/03/19/los-gatos-samurai.html) - 2024-03-19
+
 [Linux song](https://oleksis.github.io/jupyter/linux/kernel/song/valentine/releases/2024/03/04/Linux-song.html) - 2024-03-04
 
 [The year 2024 is a leap year](https://oleksis.github.io/jupyter/pascal/javascript/gregorian/calendar/2024/02/29/gregorian-calendar-javascript-app.html) - 2024-02-29
@@ -43,8 +45,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [K3S on Windows Subsystem for Linux](https://oleksis.github.io/jupyter/kubernetes/k3s/wsl2/2023/05/08/K3S-Windows-Subsystem-Linux.html) - 2023-05-08
 
 [Rancher Desktop, K3s and Traefik as ingress controller](https://oleksis.github.io/jupyter/kubernetes/k3s/rancher/2023/04/25/Rancher-Desktop_Kubernetes_Traefik.html) - 2023-04-25
-
-[Comparison between Python Launcher for Windows and Unix](https://oleksis.github.io/jupyter/python/pylauncher/2023/04/22/Comparison-Python-Launcher-Windows-Unix.html) - 2023-04-22
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
