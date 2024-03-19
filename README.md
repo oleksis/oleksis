@@ -26,7 +26,7 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
-[Los Gatos Samurái,](https://oleksis.github.io/jupyter/gatos/samur%C3%A1i/software/python/2024/03/19/los-gatos-samurai.html) - 2024-03-19
+[Los Gatos Samurái](https://oleksis.github.io/jupyter/gatos/samur%C3%A1i/software/python/2024/03/19/los-gatos-samurai.html) - 2024-03-19
 
 [Linux song](https://oleksis.github.io/jupyter/linux/kernel/song/valentine/releases/2024/03/04/Linux-song.html) - 2024-03-04
 
