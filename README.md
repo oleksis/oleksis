@@ -26,6 +26,8 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 
 ## On my blog
 <!-- blog starts -->
+[Pulse of the Circuit song](https://oleksis.github.io/jupyter/linux/song/blackpythondevs/2024/03/31/Pulse-of-the-Circuit.html) - 2024-03-31
+
 [Los Gatos Samurái](https://oleksis.github.io/jupyter/gatos/samur%C3%A1i/software/python/2024/03/19/los-gatos-samurai.html) - 2024-03-19
 
 [Linux song](https://oleksis.github.io/jupyter/linux/kernel/song/valentine/releases/2024/03/04/Linux-song.html) - 2024-03-04
@@ -43,8 +45,6 @@ More [recent releases](https://github.com/oleksis/oleksis/blob/master/releases.m
 [Customize the Python REPL on start-up](https://oleksis.github.io/jupyter/python/repl/rich/terminal/textual/2023/07/28/Customize-Python-REPL-start_up.html) - 2023-07-28
 
 [K3S on Windows Subsystem for Linux](https://oleksis.github.io/jupyter/kubernetes/k3s/wsl2/2023/05/08/K3S-Windows-Subsystem-Linux.html) - 2023-05-08
-
-[Rancher Desktop, K3s and Traefik as ingress controller](https://oleksis.github.io/jupyter/kubernetes/k3s/rancher/2023/04/25/Rancher-Desktop_Kubernetes_Traefik.html) - 2023-04-25
 <!-- blog ends -->
 More on [oleksis.github.io/jupyter](https://oleksis.github.io/jupyter/)
 
